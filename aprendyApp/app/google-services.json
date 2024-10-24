@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085363112763",
+    "project_id": "aprendybd",
+    "storage_bucket": "aprendybd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085363112763:android:d3bdf3f760b20ee75a451e",
+        "android_client_info": {
+          "package_name": "com.aprender.aprendyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOzPcrUj0D1ANvePWy-3txQfBhol8DyCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
